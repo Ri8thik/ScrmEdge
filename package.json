@@ -44,10 +44,15 @@
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.6",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "sass": "^1.89.2",
     "sass-loader": "^16.0.5",
 =======
 >>>>>>> 49efc16 (initial commit)
+=======
+    "sass": "^1.89.2",
+    "sass-loader": "^16.0.5",
+>>>>>>> 67f767f (inital commit)
     "tailwindcss": "^3.1.11"
   }
 }

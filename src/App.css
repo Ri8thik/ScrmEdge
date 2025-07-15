@@ -26,3 +26,16 @@
   font-weight: bold;
   color: #0066cc;
 }
+
+/* Add your existing sidebar styles here */
+.nav-link {
+  display: block;
+  padding: 8px 0;
+  color: #333;
+  text-decoration: none;
+}
+
+.nav-link.active {
+  font-weight: bold;
+  color: #0066cc;
+}
