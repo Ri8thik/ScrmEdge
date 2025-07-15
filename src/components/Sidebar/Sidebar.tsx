@@ -1,7 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import './Sidebar.scss';
-
 const Sidebar = () => {
   const navItems = [
     { name: 'Home', path: '/' },
