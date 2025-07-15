@@ -10,6 +10,7 @@ const Sidebar = () => {
     { name: 'Teams', path: '/teams' },
     { name: 'Settings', path: '/settings' }
   ];
+  // dummy
 
   return (
     <aside className="sidebar">
