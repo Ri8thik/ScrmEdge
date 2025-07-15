@@ -5,7 +5,7 @@ import './Sidebar.scss';
 const Sidebar = () => {
   const navItems = [
     { name: 'Home', path: '/' },
-    { name: 'Todos', path: '/todos' },
+    { name: 'Your Tasks', path: '/todos' },
     { name: 'Projects', path: '/projects' },
     { name: 'Teams', path: '/teams' },
     { name: 'Settings', path: '/settings' }
