@@ -9,7 +9,10 @@ const Sidebar = () => {
     { name: 'Teams', path: '/teams' },
     { name: 'Settings', path: '/settings' }
   ];
+<<<<<<< HEAD
   // dummy
+=======
+>>>>>>> 49efc16 (initial commit)
 
   return (
     <aside className="sidebar">
