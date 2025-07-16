@@ -1,0 +1,9 @@
+{
+  "posts": [
+    { "id": 1, "title": "React with JSON Server", "author": "John Doe" },
+    { "id": 2, "title": "Mock APIs Made Easy", "author": "Jane Smith" }
+  ],
+  "users": [
+    { "id": 1, "name": "Alice" }
+  ]
+}

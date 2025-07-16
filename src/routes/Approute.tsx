@@ -1,12 +1,9 @@
-import React from 'react';
 import { Routes, Route } from 'react-router-dom';
-// import HomePage from '../pages/Home/HomePage';
-// import TodoPage from '../features/todo/pages/TodoPage';
+import { Dashboard } from '../features/Dashboard/Dashboard.tsx';
 
 const AppRoutes = () => (
   <Routes>
-    {/* <Route path="/" element={<HomePage />} />
-    <Route path="/todos" element={<TodoPage />} /> */}
+    <Route path="/" element={<Dashboard />} />
   </Routes>
 );
 
